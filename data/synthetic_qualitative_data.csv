@@ -1,0 +1,13 @@
+record_id,method,participant_group,community,language,transcript_excerpt_en,initial_code,theme,evidence_type
+FGD_GIRLS_001,FGD,Girls,Babura,Hausa,Synthetic participants described clearer communication about available support as helpful.,communication_gap,Information and communication,experience
+FGD_GIRLS_002,FGD,Girls,Masko,Hausa,Synthetic participants described difficulty understanding where to raise concerns.,feedback_access,Feedback and accountability,challenge
+FGD_BOYS_001,FGD,Boys,Dorawa,Hausa,Synthetic participants described peer support as a positive community response.,community_support,Community response,response
+FGD_BOYS_002,FGD,Boys,Insharuwa,Hausa,Synthetic participants described delays in receiving responses to some concerns.,response_delay,Service access and response,challenge
+FGD_CWD_001,FGD,Children with disabilities,Masko,Hausa,Synthetic participants highlighted the need for more accessible communication.,accessibility,Inclusion and accessibility,challenge
+FGD_CWD_002,FGD,Children with disabilities,Babura,Hausa,Synthetic participants described supportive community members as useful for participation.,community_support,Community response,response
+FGD_PARENTS_001,FGD,Parents,Dorawa,Hausa,Synthetic parents described community engagement as helpful for understanding available support.,community_engagement,Information and communication,experience
+KII_LEADER_001,KII,Community leaders,Babura,Hausa,Synthetic stakeholders described coordination with local actors as an important response.,coordination,Community response,response
+KII_RELIGIOUS_001,KII,Religious leaders,Masko,Hausa,Synthetic stakeholders identified awareness gaps as a recurring challenge.,communication_gap,Information and communication,challenge
+KII_WOMEN_001,KII,Women Affairs stakeholders,Insharuwa,Hausa,Synthetic stakeholders suggested more structured feedback channels.,feedback_access,Feedback and accountability,recommendation
+KII_EDU_001,KII,Education stakeholders,Dorawa,Hausa,Synthetic stakeholders described coordination as useful when responding to community concerns.,coordination,Community response,response
+KII_CP_001,KII,Child Protection stakeholders,Masko,Hausa,Synthetic stakeholders emphasized accessible reporting pathways in a fictional scenario.,accessibility,Inclusion and accessibility,recommendation
